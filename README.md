@@ -79,12 +79,3 @@ cd drum-kit
 > ⚠️ Make sure the `sounds/` and `images/` folders are in the same directory as `index.html` and contain the required files.
 
 ---
-
-## 📷 Screenshots
-
-*(Add your screenshot image below if needed)*
-
-![Drum Kit Screenshot](screenshot.png)
-
----
-
